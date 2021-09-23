@@ -11,6 +11,7 @@ import javax.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import one.digitalinnovation.beerstock.enums.BeerType;
 
 @Data
 @Entity
